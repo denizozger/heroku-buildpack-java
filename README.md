@@ -80,3 +80,7 @@ License
 -------
 
 Licensed under the MIT License. See LICENSE file.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/denizozger/heroku-buildpack-java/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
